@@ -16,7 +16,7 @@ used=0
 id=0
 
 # place the run-server.sh file to the directory you want to run your script, 
-# and change the "workspace" in the following line to the directory you put your run_server.sh file
+# and change the "workspace" in the following line to the directory you put your run-server.sh file
 cmd="cd workspace; ./run-server.sh"
 
 for node in $nodes
